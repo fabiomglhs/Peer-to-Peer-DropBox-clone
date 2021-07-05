@@ -1,0 +1,5 @@
+2021-04-23 18:39:45,506 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-04-23 18:39:46,468 INFO  [52401ba24-58942]      LoggingReceiver: Message from cd97badb-fe7c-72fc-a58c-2c86f0876d71 to null: length --> 22b
+2021-04-23 18:39:46,459 INFO  [52401ba24-58942]      LoggingReceiver: Message from 53252401ba24-58942 to null: length --> 22b
+2021-04-23 18:39:46,469 INFO  [52401ba24-58942]      LoggingReceiver: Message from c43bd5f8-9abb-37fd-2d9e-e2d1312ec791 to null: length --> 22b
+2021-04-23 18:39:46,492 INFO  [52401ba24-58942]      LoggingReceiver: Message from 72659148-04a1-70a5-cd13-187b59c9ae50 to null: length --> 22b

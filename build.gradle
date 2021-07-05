@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+}
+
+group 'pt.ipb.dsys.peerbox'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'pt.ipb.dsys.peerbox.Main'
+    }
+    // include all libraries (gradle) on jar
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}
+
+
+dependencies {
+    implementation 'org.jgroups:jgroups:5.1.6.Final'
+    implementation 'com.google.guava:guava:30.1.1-jre'
+    implementation 'ch.qos.logback:logback-classic:1.2.3'
+}
+

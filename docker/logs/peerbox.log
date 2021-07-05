@@ -1,0 +1,65 @@
+2021-05-17 00:03:53,129 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 00:08:26,683 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 00:08:26,726 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 00:08:49,990 INFO  [614231ad1-17950]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-34698 to 401614231ad1-17950: length --> 65.81KB 
+2021-05-17 00:08:50,387 INFO  [614231ad1-17950]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-34698 to 401614231ad1-17950: length --> 65.81KB 
+2021-05-17 00:08:52,400 INFO  [614231ad1-17950]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-34698 to 401614231ad1-17950: length --> 65.81KB 
+2021-05-17 00:09:43,301 INFO  [614231ad1-17950]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-34698 to null: length --> 265b 
+2021-05-17 00:09:43,404 INFO  [614231ad1-17950]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-34698 to null: length --> 265b 
+2021-05-17 00:09:43,402 INFO  [6aa396e91-45325]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-34698 to null: length --> 265b 
+2021-05-17 00:09:43,431 INFO  [6aa396e91-45325]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-34698 to null: length --> 265b 
+2021-05-17 00:12:49,343 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 00:12:49,358 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 00:13:20,892 INFO  [6aa396e91-49433]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-39681 to 0fa6aa396e91-49433: length --> 65.81KB 
+2021-05-17 00:13:21,844 INFO  [6aa396e91-49433]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-39681 to 0fa6aa396e91-49433: length --> 65.81KB 
+2021-05-17 00:13:22,897 INFO  [614231ad1-55811]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-39681 to 401614231ad1-55811: length --> 65.81KB 
+2021-05-17 00:13:23,853 INFO  [6aa396e91-49433]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-39681 to 0fa6aa396e91-49433: length --> 65.81KB 
+2021-05-17 00:14:22,467 WARN  [6aa396e91-49433]                  GMS: 0fa6aa396e91-49433: I'm not the coordinator (or next-in-line); dropping LEAVE request
+2021-05-17 00:15:46,837 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 00:15:46,844 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 00:15:59,331 INFO  [614231ad1-17649]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-31716 to 401614231ad1-17649: length --> 65.81KB 
+2021-05-17 00:16:00,365 INFO  [6aa396e91-19640]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-31716 to 0fa6aa396e91-19640: length --> 65.81KB 
+2021-05-17 00:16:45,833 WARN  [6aa396e91-19640]                  GMS: 0fa6aa396e91-19640: I'm not the coordinator (or next-in-line); dropping LEAVE request
+2021-05-17 00:19:56,287 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 00:19:56,373 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 00:20:20,186 INFO  [614231ad1-45928]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-12303 to 401614231ad1-45928: length --> 65.81KB 
+2021-05-17 00:20:22,231 INFO  [a6aa396e91-5546]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-12303 to 0fa6aa396e91-5546: length --> 65.81KB 
+2021-05-17 00:20:31,441 INFO  [614231ad1-45928]    PeerBoxOperations: 878b368f-ba66-4119-b0ff-4c7bb56053d0:[B@bce2405
+2021-05-17 00:20:31,442 INFO  [a6aa396e91-5546]    PeerBoxOperations: f017f44a-7c6e-4c20-981b-b77fb1c76b72:[B@2b8cd76e
+2021-05-17 00:20:51,830 WARN  [614231ad1-45928]                  GMS: 401614231ad1-45928: I'm not the coordinator (or next-in-line); dropping LEAVE request
+2021-05-17 13:03:48,794 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 13:03:48,800 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 13:04:42,544 INFO  [614231ad1-54724]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-61219 to 401614231ad1-54724: length --> 65.81KB 
+2021-05-17 13:04:44,566 INFO  [614231ad1-54724]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-61219 to 401614231ad1-54724: length --> 65.81KB 
+2021-05-17 13:04:45,565 INFO  [614231ad1-54724]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-61219 to 401614231ad1-54724: length --> 65.81KB 
+2021-05-17 13:05:14,290 INFO  [614231ad1-54724]    PeerBoxOperations: dd3fbba7-ae2b-470c-9588-79e2382feca2:[B@c20504d
+2021-05-17 13:05:14,292 INFO  [614231ad1-54724]    PeerBoxOperations: 7771761d-7e5d-4df6-bc18-efaa952bbd63:[B@378f8c1a
+2021-05-17 13:05:45,292 INFO  [614231ad1-54724]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-61219 to null: length --> 265b 
+2021-05-17 13:05:45,334 INFO  [a6aa396e91-7188]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-61219 to null: length --> 265b 
+2021-05-17 13:05:45,376 INFO  [a6aa396e91-7188]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-61219 to null: length --> 265b 
+2021-05-17 13:05:45,380 INFO  [614231ad1-54724]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-61219 to null: length --> 265b 
+2021-05-17 13:05:59,291 INFO  [614231ad1-54724]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-61219 to null: length --> 259b 
+2021-05-17 13:05:59,294 INFO  [a6aa396e91-7188]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-61219 to null: length --> 259b 
+2021-05-17 13:05:59,302 INFO  [a6aa396e91-7188]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-61219 to null: length --> 259b 
+2021-05-17 13:05:59,305 INFO  [614231ad1-54724]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-61219 to null: length --> 259b 
+2021-05-17 13:25:17,622 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 13:25:17,628 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 13:25:33,837 INFO  [1614231ad1-9254]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-41165 to 401614231ad1-9254: length --> 65.81KB 
+2021-05-17 13:25:34,797 INFO  [1614231ad1-9254]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-41165 to 401614231ad1-9254: length --> 65.81KB 
+2021-05-17 13:25:44,009 INFO  [1614231ad1-9254]    PeerBoxOperations: bbb7b16c-480f-4688-b5d5-1ab564272152:[B@4eb652d6
+2021-05-17 13:26:05,013 INFO  [1614231ad1-9254]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-41165 to null: length --> 265b 
+2021-05-17 13:26:05,063 INFO  [6aa396e91-12254]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-41165 to null: length --> 265b 
+2021-05-17 14:19:47,503 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 14:19:47,523 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-17 14:20:25,324 INFO  [7096ae4ae-61000]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-54044 to 97a7096ae4ae-61000: length --> 65.81KB 
+2021-05-17 14:20:26,313 INFO  [c20135b41-15876]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-54044 to 2e1c20135b41-15876: length --> 65.81KB 
+2021-05-17 14:20:28,263 INFO  [c20135b41-15876]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-54044 to 2e1c20135b41-15876: length --> 65.81KB 
+2021-05-17 14:20:45,656 INFO  [7096ae4ae-61000]    PeerBoxOperations: b73fa6d0-9834-4197-abf7-9a5df4d978e3:[B@5a933cd3
+2021-05-17 14:20:45,676 INFO  [c20135b41-15876]    PeerBoxOperations: b73fa6d0-9834-4197-abf7-9a5df4d978e3:[B@3d1e263d
+2021-05-17 14:20:45,676 INFO  [c20135b41-15876]    PeerBoxOperations: 33fffa66-a467-450b-be65-c71110c0be4f:[B@605f810c
+2021-05-17 14:20:57,648 INFO  [c20135b41-15876]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-54044 to null: length --> 265b 
+2021-05-17 14:20:57,665 INFO  [7096ae4ae-61000]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-54044 to null: length --> 265b 
+2021-05-17 14:20:57,698 INFO  [c20135b41-15876]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-54044 to null: length --> 265b 
+2021-05-17 14:20:57,734 INFO  [7096ae4ae-61000]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-54044 to null: length --> 265b 
+2021-05-17 14:21:31,892 INFO  [7096ae4ae-61000]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-54044 to 97a7096ae4ae-61000: length --> 65.81KB 
+2021-05-17 14:21:34,827 INFO  [c20135b41-15876]    PeerBoxOperations: Message from fabio-Lenovo-Y520-15IKBN-54044 to 2e1c20135b41-15876: length --> 65.81KB 

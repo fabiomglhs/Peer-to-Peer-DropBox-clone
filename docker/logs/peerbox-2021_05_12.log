@@ -1,0 +1,21 @@
+2021-05-13 09:21:32,042 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-13 09:21:33,757 INFO  [           main]    PeerBoxOperations: New View :: 1
+2021-05-13 09:21:33,765 INFO  [6aa396e91-33416]      LoggingReceiver: Message from 0fa6aa396e91-33416 to null: length --> 30b
+2021-05-13 09:21:35,759 INFO  [           main]    PeerBoxOperations: New View :: 1
+2021-05-13 09:21:35,762 INFO  [6aa396e91-33416]      LoggingReceiver: Message from 0fa6aa396e91-33416 to null: length --> 30b
+2021-05-13 09:21:37,760 INFO  [           main]    PeerBoxOperations: New View :: 1
+2021-05-13 09:21:37,761 INFO  [6aa396e91-33416]      LoggingReceiver: Message from 0fa6aa396e91-33416 to null: length --> 30b
+2021-05-13 09:21:39,761 INFO  [           main]    PeerBoxOperations: New View :: 1
+2021-05-13 09:21:39,762 INFO  [6aa396e91-33416]      LoggingReceiver: Message from 0fa6aa396e91-33416 to null: length --> 30b
+2021-05-13 09:21:41,763 INFO  [           main]    PeerBoxOperations: New View :: 1
+2021-05-13 09:21:41,764 INFO  [6aa396e91-33416]      LoggingReceiver: Message from 0fa6aa396e91-33416 to null: length --> 30b
+2021-05-13 09:21:43,765 INFO  [           main]    PeerBoxOperations: New View :: 1
+2021-05-13 09:21:43,772 INFO  [6aa396e91-33416]      LoggingReceiver: Message from 0fa6aa396e91-33416 to null: length --> 30b
+2021-05-13 09:21:45,765 INFO  [           main]    PeerBoxOperations: New View :: 1
+2021-05-13 09:21:45,766 INFO  [6aa396e91-33416]      LoggingReceiver: Message from 0fa6aa396e91-33416 to null: length --> 30b
+2021-05-13 09:21:47,766 INFO  [           main]    PeerBoxOperations: New View :: 1
+2021-05-13 09:21:47,767 INFO  [6aa396e91-33416]      LoggingReceiver: Message from 0fa6aa396e91-33416 to null: length --> 30b
+2021-05-13 09:21:49,767 INFO  [           main]    PeerBoxOperations: New View :: 1
+2021-05-13 09:21:49,767 INFO  [6aa396e91-33416]      LoggingReceiver: Message from 0fa6aa396e91-33416 to null: length --> 30b
+2021-05-13 09:21:51,768 INFO  [           main]    PeerBoxOperations: New View :: 1
+2021-05-13 09:21:51,770 INFO  [6aa396e91-33416]      LoggingReceiver: Message from 0fa6aa396e91-33416 to null: length --> 30b

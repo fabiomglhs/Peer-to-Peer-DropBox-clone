@@ -1,0 +1,8 @@
+2021-05-14 10:57:17,748 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-14 10:58:40,557 INFO  [65b0d11a9-23517]      LoggingReceiver: New View :: [0fa6aa396e91-53263|4] (5) [0fa6aa396e91-53263, d0c7cd33a6b6-21691, 401614231ad1-59184, 63165b0d11a9-23517, fabio-Lenovo-Y520-15IKBN-5014]
+2021-05-14 10:59:15,693 INFO  [65b0d11a9-23517]      LoggingReceiver: Message from fabio-Lenovo-Y520-15IKBN-5014 to null: length --> 65.54KB
+2021-05-14 10:59:17,694 INFO  [65b0d11a9-23517]      LoggingReceiver: Message from fabio-Lenovo-Y520-15IKBN-5014 to null: length --> 65.54KB
+2021-05-14 10:59:19,719 INFO  [65b0d11a9-23517]      LoggingReceiver: Message from fabio-Lenovo-Y520-15IKBN-5014 to null: length --> 65.54KB
+2021-05-14 10:59:21,710 INFO  [65b0d11a9-23517]      LoggingReceiver: Message from fabio-Lenovo-Y520-15IKBN-5014 to null: length --> 65.54KB
+2021-05-14 10:59:23,703 INFO  [65b0d11a9-23517]      LoggingReceiver: Message from fabio-Lenovo-Y520-15IKBN-5014 to null: length --> 0b
+2021-05-14 10:59:35,122 INFO  [65b0d11a9-23517]      LoggingReceiver: New View :: [0fa6aa396e91-53263|5] (4) [0fa6aa396e91-53263, d0c7cd33a6b6-21691, 401614231ad1-59184, 63165b0d11a9-23517]

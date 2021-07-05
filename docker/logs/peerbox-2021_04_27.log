@@ -1,0 +1,37 @@
+2021-05-10 12:16:53,771 INFO  [           main]     DefaultProtocols: Found gossip router at gossip-router/172.18.0.2 (using it)
+2021-05-10 12:17:02,675 ERROR [2.18.0.2:12001]]               TUNNEL: JGRP000030: 63165b0d11a9-52123: failed handling incoming message
+java.lang.ClassNotFoundException: Class for magic number 0 cannot be found
+	at org.jgroups.conf.ClassConfigurator.create(ClassConfigurator.java:137)
+	at org.jgroups.BaseMessage.readHeader(BaseMessage.java:347)
+	at org.jgroups.BaseMessage.readFrom(BaseMessage.java:311)
+	at org.jgroups.protocols.TP.handleSingleMessage(TP.java:1555)
+	at org.jgroups.protocols.TP.receive(TP.java:1512)
+	at org.jgroups.protocols.TUNNEL.receive(TUNNEL.java:199)
+	at org.jgroups.stack.RouterStub.receive(RouterStub.java:217)
+	at org.jgroups.blocks.cs.BaseServer.receive(BaseServer.java:186)
+	at org.jgroups.blocks.cs.TcpConnection$Receiver.run(TcpConnection.java:301)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2021-05-10 12:17:04,623 ERROR [2.18.0.2:12001]]               TUNNEL: JGRP000030: 63165b0d11a9-52123: failed handling incoming message
+java.lang.ClassNotFoundException: Class for magic number 0 cannot be found
+	at org.jgroups.conf.ClassConfigurator.create(ClassConfigurator.java:137)
+	at org.jgroups.BaseMessage.readHeader(BaseMessage.java:347)
+	at org.jgroups.BaseMessage.readFrom(BaseMessage.java:311)
+	at org.jgroups.protocols.TP.handleSingleMessage(TP.java:1555)
+	at org.jgroups.protocols.TP.receive(TP.java:1512)
+	at org.jgroups.protocols.TUNNEL.receive(TUNNEL.java:199)
+	at org.jgroups.stack.RouterStub.receive(RouterStub.java:217)
+	at org.jgroups.blocks.cs.BaseServer.receive(BaseServer.java:186)
+	at org.jgroups.blocks.cs.TcpConnection$Receiver.run(TcpConnection.java:301)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2021-05-10 12:17:06,623 ERROR [2.18.0.2:12001]]               TUNNEL: JGRP000030: 63165b0d11a9-52123: failed handling incoming message
+java.lang.ClassNotFoundException: Class for magic number 0 cannot be found
+	at org.jgroups.conf.ClassConfigurator.create(ClassConfigurator.java:137)
+	at org.jgroups.BaseMessage.readHeader(BaseMessage.java:347)
+	at org.jgroups.BaseMessage.readFrom(BaseMessage.java:311)
+	at org.jgroups.protocols.TP.handleSingleMessage(TP.java:1555)
+	at org.jgroups.protocols.TP.receive(TP.java:1512)
+	at org.jgroups.protocols.TUNNEL.receive(TUNNEL.java:199)
+	at org.jgroups.stack.RouterStub.receive(RouterStub.java:217)
+	at org.jgroups.blocks.cs.BaseServer.receive(BaseServer.java:186)
+	at org.jgroups.blocks.cs.TcpConnection$Receiver.run(TcpConnection.java:301)
+	at java.base/java.lang.Thread.run(Thread.java:829)

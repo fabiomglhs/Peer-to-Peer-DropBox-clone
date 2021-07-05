@@ -1,0 +1,28 @@
+version: '3'
+services:
+
+  gossip-router:
+    image: openjdk:11
+    container_name: gossip-router
+    networks:
+      - peerbox-network
+    ports:
+      - 12001:12001
+    volumes:
+      - ../build/libs:/app
+    command: java -cp /app/ds-jgroups-1.0-SNAPSHOT.jar org.jgroups.stack.GossipRouter -port 12001
+
+  peer-box:
+    image: openjdk:11
+    scale: 4
+    networks:
+      - peerbox-network
+    volumes:
+      - ../build/libs:/app
+      - ./conf:/app/conf
+      - ./logs:/logs
+    command: java -Dlogback.configurationFile=/app/conf/logback.xml -jar /app/ds-jgroups-1.0-SNAPSHOT.jar
+
+networks:
+  peerbox-network:
+    driver: bridge
